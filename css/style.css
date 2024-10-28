@@ -1,6 +1,23 @@
 header{
     background-color: #4ea0ff;
     background-image: url('../img/pattern.png');
-    background-size: 25%;
+    background-size: 35%;
     height: 7rem;
+}
+#main-logo{
+    padding-top: 2.5rem;
+    padding-left: .5rem;
+    height: 50%;
+}
+h1{
+    font-size: 3.4rem;
+}
+.font-grey{
+    color: #808080;
+}
+.font-blue{
+    color: #36b0e6;
+}
+.font-small{
+    font-size: 0.75rem;
 }
