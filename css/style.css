@@ -21,3 +21,23 @@ h1{
 .font-small{
     font-size: 0.75rem;
 }
+mark{
+    background-color: yellow;
+}
+table{
+    border-collapse: collapse;
+    /* border-spacing: 0; */
+}
+.bg-blue{
+    background-color: #20a9e5;
+}
+
+.bg-light-blue{
+    background-color: #b1e5f2;
+}
+.width-50{
+    width: 50%;
+}
+.font-white{
+    color: white;
+}
